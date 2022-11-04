@@ -1,31 +1,26 @@
-# <div align="center"> Web Pizza Hub </div>
+# <div align="center"> Pizza </div>
 
 </br>
+<p align="center"><a href="https://a-rede-social.vercel.app/">⭐ Clique aqui</a> para ver o projeto. ⭐</p>
 
-<div align="center">
-<p>🚧 It is in Development 🚧</p>
-</div>
+## Tecnologias usadas
 
-</br>
-
-## Technologies used in the project
-
-- Typescript
+- TypeScript
 - NextJs
 - Axios
 
 
-## How to run the project
+## Como executar o projeto
 
-- Clone this repository
+- Clone este repositório
 
 ```shell
-git clone https://github.com/guilhermelinosx/web-pizza-hub.git
+git clone https://github.com/driica/pizza.git
 ```
 
 </br>
 
-- Start the Application in Development
+- Execute os comandos:
 
 ```shell
 yarn install
@@ -34,4 +29,14 @@ yarn dev
 
 </br>
 
-- To stop the Application click CTRL+C in your terminal
+### [](https://github.com/driica/DSvendas#--autor) 💎 Autora 
+<img style="border-radius: 8px" src="https://github.com/driica.png" width="100px;" alt="Adriana Beatriz"/>
+
+
+## :page_facing_up: **Licença**
+
+<div align="center">
+  
+<p>Copyright © 2022 <strong>Adriana Beatriz.</strong></p>
+
+</div>
