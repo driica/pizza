@@ -1,7 +1,6 @@
 # <div align="center"> Pizza </div>
 
 </br>
-<p align="center"><a href="https://a-rede-social.vercel.app/">⭐ Clique aqui</a> para ver o projeto. ⭐</p>
 
 ## Tecnologias usadas
 
